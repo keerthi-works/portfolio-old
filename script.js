@@ -21,11 +21,10 @@ yearEl.innerHTML = new Date().getFullYear();
 /* *********** */
 const projects = [
 	{
-		name: 'ToDo App',
-		img: 'todo.png',
-		codeUrl: 'https://github.com/justdecodeme/portfolio/tree/master/projects/todo',
-		liveUrl: 'https://justdecodeme.github.io/portfolio/projects/todo/',
-		tags: ['html', 'css', 'js'],
+		name: 'logo',
+		img: 'logo-sample.png',
+		liveUrl: "https://www.figma.com/file/0nbRCpi5MDj4cUFPmHr2Wt/Logo?type=design&node-id=0%3A1&mode=design&t=menc7mOEWAYpc8zM-1",
+		tags: [ 'logo'],
 	},
 	
 ];
