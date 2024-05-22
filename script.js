@@ -27,6 +27,12 @@ const projects = [
 		tags: [ 'logo'],
 	},
 	
+	{
+		name: 'logo',
+		img: 'logo-sample.png',
+		liveUrl: "https://www.figma.com/design/VaQgldUXQsAUkoV9eK6sJV/Untitled?node-id=0%3A1&t=94mfhrmv2TEN4mHW-1",
+		tags: [ 'logo'],
+	},
 ];
 
 function renderProjects(tag) {
