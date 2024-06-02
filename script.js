@@ -33,10 +33,10 @@ const projects = [
 		tags: [ 'website'],
 	},
 	{
-		name: 'Project-1',
-		img: 'logo-sample.png',
-		liveUrl: "https://www.figma.com/design/VaQgldUXQsAUkoV9eK6sJV/Untitled?node-id=0%3A1&t=94mfhrmv2TEN4mHW-1",
-		tags: [ 'logo'],
+		name: 'SCENT STORE',
+		img: 'Welcome Screen.png',
+		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=UefppB3AnHixBuW0-1",
+		tags: [ 'mobile'],
 	},
 ];
 
