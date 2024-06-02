@@ -26,7 +26,12 @@ const projects = [
 		liveUrl: "https://www.figma.com/file/0nbRCpi5MDj4cUFPmHr2Wt/Logo?type=design&node-id=0%3A1&mode=design&t=menc7mOEWAYpc8zM-1",
 		tags: [ 'logo'],
 	},
-	
+	{
+		name: 'Apple Watch',
+		img: 'apple-watch.png',
+		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=UefppB3AnHixBuW0-1",
+		tags: [ 'website'],
+	},
 	{
 		name: 'Project-1',
 		img: 'logo-sample.png',
