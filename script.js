@@ -21,11 +21,16 @@ yearEl.innerHTML = new Date().getFullYear();
 /* *********** */
 const projects = [
 	{
-		name: 'logo',
-		img: 'logo-sample.png',
-		liveUrl: "https://www.figma.com/file/0nbRCpi5MDj4cUFPmHr2Wt/Logo?type=design&node-id=0%3A1&mode=design&t=menc7mOEWAYpc8zM-1",
-		tags: [ 'logo'],
+	// name: 'logo',
+		//img: 'logo-sample.png',
+		//liveUrl: "https://www.figma.com/file/0nbRCpi5MDj4cUFPmHr2Wt/Logo?type=design&node-id=0%3A1&mode=design&t=menc7mOEWAYpc8zM-1",
+	//	tags: [ 'logo'],
+	name: 'Sign-Up Page',
+	img: 'Sign-Up-Page.png',
+	liveUrl: "https://www.figma.com/design/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=0-1&t=vAttRTeEHEiXFJiS-1",
+	tags: [ 'website'],
 	},
+	
 	{
 		name: 'Apple Watch',
 		img: 'apple-watch.png',
