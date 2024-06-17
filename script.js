@@ -38,10 +38,7 @@ const projects = [
 		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=UefppB3AnHixBuW0-1",
 		tags: [ 'mobile'],
 
-		name: 'Sign-Up Page',
-		img: 'Sign-Up-Page.png',
-		liveUrl: "https://www.figma.com/design/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=0-1&t=vAttRTeEHEiXFJiS-1",
-		tags: [ 'website'],
+		
 	},
 ];
 
