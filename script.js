@@ -32,11 +32,12 @@ const projects = [
 	},
 	
 	{
-		name: 'Apple Watch',
-		img: 'apple-watch.png',
-		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=UefppB3AnHixBuW0-1",
-		tags: [ 'website'],
+		name: 'Landing Page-Mobile',
+		img: 'landing-page.png',
+		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=61-1526&t=s8sfTyf5Ak5l5ZkE-1&scaling=scale-down&content-scaling=fixed&page-id=61%3A1525",
+		tags: [ 'mobile'],
 	},
+	
 	{
 		name: 'SCENT STORE',
 		img: 'Welcome Screen.png',
@@ -45,6 +46,14 @@ const projects = [
 
 		
 	},
+
+	{
+		name: 'Apple Watch',
+		img: 'apple-watch.png',
+		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=UefppB3AnHixBuW0-1",
+		tags: [ 'website'],
+	},
+	
 ];
 
 function renderProjects(tag) {
