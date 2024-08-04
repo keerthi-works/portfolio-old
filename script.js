@@ -20,12 +20,18 @@ yearEl.innerHTML = new Date().getFullYear();
 /* projects */
 /* *********** */
 const projects = [
+	
 	{
-	// name: 'logo',
-		//img: 'logo-sample.png',
-		//liveUrl: "https://www.figma.com/file/0nbRCpi5MDj4cUFPmHr2Wt/Logo?type=design&node-id=0%3A1&mode=design&t=menc7mOEWAYpc8zM-1",
-	//	tags: [ 'logo'],
-		name: 'Sign-Up Page',
+		name: 'SCENT STORE',
+		img: 'Welcome Screen.png',
+		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=UefppB3AnHixBuW0-1",
+		tags: [ 'mobile'],
+
+		
+	},
+	
+	{
+			name: 'Sign-Up Page',
 		img: 'Sign-Up-Page.png',
 		liveUrl: "https://www.figma.com/design/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=0-1&t=vAttRTeEHEiXFJiS-1",
 		tags: [ 'website'],
@@ -37,15 +43,8 @@ const projects = [
 		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=61-1526&t=s8sfTyf5Ak5l5ZkE-1&scaling=scale-down&content-scaling=fixed&page-id=61%3A1525",
 		tags: [ 'mobile'],
 	},
-	
-	{
-		name: 'SCENT STORE',
-		img: 'Welcome Screen.png',
-		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=UefppB3AnHixBuW0-1",
-		tags: [ 'mobile'],
 
-		
-	},
+	
 
 	{
 		name: 'Apple Watch',
