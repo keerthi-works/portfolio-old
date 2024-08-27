@@ -66,7 +66,7 @@ const projects = [
 		name: 'Dashboard Page',
 		img: 'Dashboard.png',
 		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=95-983&t=4a9fLqSrxckowpGN-0&scaling=scale-down&content-scaling=fixed&page-id=95%3A887&starting-point-node-id=95%3A888",
-		tags: [ 'Prototype'],
+		tags: [ 'prototype'],
 	},
 	
 ];
