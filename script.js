@@ -35,7 +35,6 @@ const projects = [
 		img: 'Nimesa Home Screen.png',
 		liveUrl: "https://www.figma.com/proto/8f0wKXMiQJ84TUgzHlyWA7/Redesign-Landing-Page-NIMESA?page-id=0%3A1&node-id=257-695&viewport=-1526%2C-43%2C0.08&t=3Fbt96vuP8MEgfCr-1&scaling=scale-down-width&content-scaling=fixed",
 		tags: [ 'website'],
-
 		
 	},
 
@@ -56,12 +55,18 @@ const projects = [
 	},
 
 	
-
 	{
-		name: 'Apple Watch',
+		name: 'Animated SLide',
 		img: 'apple-watch.png',
 		liveUrl: "https://www.figma.com/proto/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=NucLShgOzIkJelJ3-0&scaling=scale-down&content-scaling=fixed&page-id=30%3A105",
 		tags: [ 'website'],
+	},
+
+	{
+		name: 'Dashboard Page',
+		img: 'Dashboard.png',
+		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=95-983&t=4a9fLqSrxckowpGN-0&scaling=scale-down&content-scaling=fixed&page-id=95%3A887&starting-point-node-id=95%3A888",
+		tags: [ 'Prototype'],
 	},
 	
 ];
