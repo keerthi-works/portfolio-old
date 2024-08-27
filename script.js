@@ -24,16 +24,27 @@ const projects = [
 	{
 		name: 'SCENT STORE',
 		img: 'Welcome Screen.png',
-		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=UefppB3AnHixBuW0-1",
+		liveUrl: "https://www.figma.com/proto/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=17-17&t=mQSPSrQh5nUEpdE4-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A17&show-proto-sidebar=1",
 		tags: [ 'mobile'],
 
 		
 	},
+
+	{
+		name: 'Redesign the Real Site',
+		img: 'Nimesa Home Screen.png',
+		liveUrl: "https://www.figma.com/proto/8f0wKXMiQJ84TUgzHlyWA7/Redesign-Landing-Page-NIMESA?page-id=0%3A1&node-id=257-695&viewport=-1526%2C-43%2C0.08&t=3Fbt96vuP8MEgfCr-1&scaling=scale-down-width&content-scaling=fixed",
+		tags: [ 'website'],
+
+		
+	},
+
+
 	
 	{
-			name: 'Sign-Up Page',
+		name: 'Sign-Up Page',
 		img: 'Sign-Up-Page.png',
-		liveUrl: "https://www.figma.com/design/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=0-1&t=vAttRTeEHEiXFJiS-1",
+		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=1-2&t=4a9fLqSrxckowpGN-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1",
 		tags: [ 'website'],
 	},
 	
@@ -49,7 +60,7 @@ const projects = [
 	{
 		name: 'Apple Watch',
 		img: 'apple-watch.png',
-		liveUrl: "https://www.figma.com/design/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=UefppB3AnHixBuW0-1",
+		liveUrl: "https://www.figma.com/proto/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=NucLShgOzIkJelJ3-0&scaling=scale-down&content-scaling=fixed&page-id=30%3A105",
 		tags: [ 'website'],
 	},
 	
