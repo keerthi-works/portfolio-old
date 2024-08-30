@@ -72,6 +72,7 @@ const projects = [
 	{
 		name: 'Logo Designs',
 		img: 'logo.png',
+		liveUrl: "https://drive.google.com/file/d/1SXsyGStFSQgFVEG4X1QbF1BHSxexUKto/view?usp=sharing",
 		tags: [ 'logo'],
 	},
 	
