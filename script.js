@@ -56,7 +56,7 @@ const projects = [
 
 	
 	{
-		name: 'Animated SLide',
+		name: 'Animated Slide',
 		img: 'apple-watch.png',
 		liveUrl: "https://www.figma.com/proto/OUcJj49FGOAOn1JTJStcc5/SCENT-STORE?node-id=145-29&t=NucLShgOzIkJelJ3-0&scaling=scale-down&content-scaling=fixed&page-id=30%3A105",
 		tags: [ 'website'],
@@ -67,6 +67,12 @@ const projects = [
 		img: 'Dashboard.png',
 		liveUrl: "https://www.figma.com/proto/EuhcZHaIxfjcxctsHaPySu/Daily-UI?node-id=95-983&t=4a9fLqSrxckowpGN-0&scaling=scale-down&content-scaling=fixed&page-id=95%3A887&starting-point-node-id=95%3A888",
 		tags: [ 'prototype'],
+	},
+
+	{
+		name: 'Logo Designs',
+		img: 'logo.png',
+		tags: [ 'logo'],
 	},
 	
 ];
